@@ -15,23 +15,23 @@
 
 可用工具
 ------
-OpenCV
-OpenCV python tutorials
-tensorflow
-Keras
+OpenCV<br>
+OpenCV python tutorials<br>
+tensorflow<br>
+Keras<br>
 Keras 中文文档
 
 可用模型
 ------
 可以尝试以下的模型，后面的数字代表年份和月份：
 
-VGGNet 14.09
-ResNet 15.12
-Inception v3 15.12
-InceptionResNetV2 16.02
-DenseNet 16.08
-Xception 16.10
-NASNet 17.07
+VGGNet 14.09<br>
+ResNet 15.12<br>
+Inception v3 15.12<br>
+InceptionResNetV2 16.02<br>
+DenseNet 16.08<br>
+Xception 16.10<br>
+NASNet 17.07<br>
 参考 Keras 文档：Documentation for individual models
 
 最低要求
