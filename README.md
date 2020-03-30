@@ -6,11 +6,13 @@
 
 描述：
 ------
-输入：一张彩色的人脸照片
+输入：一张彩色的人脸照片<br>
 输出：照片的人名
+
 数据集：
 ------
 在这个人脸识别项目中，我们将使用一个开源数据集Five Celebrity Faces Dataset，这也是一个在Kaggle比赛中的一个数据集。我们也已经下载好了并放在./5-celebrity-faces-dataset中，数据集中包含五位名人的照片，Ben Affleck, Elton John, Jerry Seinfeld, Madonna, Mindy Kaling。文件下分train和val。
+
 可用工具
 ------
 OpenCV
@@ -31,6 +33,7 @@ DenseNet 16.08
 Xception 16.10
 NASNet 17.07
 参考 Keras 文档：Documentation for individual models
+
 最低要求
 --------
 本项目的最低要求是 kaggle Public Leaderboard 前10%。
