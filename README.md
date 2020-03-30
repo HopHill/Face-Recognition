@@ -15,24 +15,24 @@
 
 可用工具
 ------
-OpenCV(https://github.com/opencv/opencv)<br>
-OpenCV python tutorials(https://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html)<br>
-tensorflow(https://github.com/tensorflow/tensorflow)<br>
-Keras(https://github.com/keras-team/keras)<br>
-Keras(https://keras.io/zh/) 中文文档
+[OpenCV](https://github.com/opencv/opencv)<br>
+[OpenCV python tutorials](https://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html)<br>
+[tensorflow](https://github.com/tensorflow/tensorflow)<br>
+[Keras](https://github.com/keras-team/keras)<br>
+[Keras中文文档](https://keras.io/zh/) 
 
 可用模型
 ------
 可以尝试以下的模型，后面的数字代表年份和月份：
 
-VGGNet 14.09(https://arxiv.org/abs/1409.1556)<br>
-ResNet 15.12(https://arxiv.org/abs/1512.03385)<br>
-Inception v3 15.12(https://arxiv.org/abs/1512.00567)<br>
-InceptionResNetV2 16.02(https://arxiv.org/abs/1602.07261)<br>
-DenseNet 16.08<br>
-Xception 16.10<br>
-NASNet 17.07<br>
-参考 Keras 文档：Documentation for individual models
+[VGGNet 14.09](https://arxiv.org/abs/1409.1556)<br>
+[ResNet 15.12](https://arxiv.org/abs/1512.03385)<br>
+[Inception v3 15.12](https://arxiv.org/abs/1512.00567)<br>
+[InceptionResNetV2 16.02](https://arxiv.org/abs/1602.07261)<br>
+[DenseNet 16.08](https://arxiv.org/abs/1608.06993)<br>
+[Xception 16.10](https://arxiv.org/abs/1610.02357)<br>
+[NASNet 17.07](https://arxiv.org/abs/1707.07012)<br>
+参考 Keras 文档：[Documentation for individual models](https://keras.io/applications/#documentation-for-individual-models)
 
 最低要求
 --------
