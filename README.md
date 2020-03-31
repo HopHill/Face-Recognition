@@ -13,7 +13,7 @@
 ------
 在这个人脸识别项目中，我们将使用一个开源数据集Five Celebrity Faces Dataset，这也是一个在Kaggle比赛中的一个数据集。我们也已经下载好了并放在./5-celebrity-faces-dataset中，数据集中包含五位名人的照片，Ben Affleck, Elton John, Jerry Seinfeld, Madonna, Mindy Kaling。文件下分train和val。
 
-可用工具：
+可选用工具：
 ------
 [OpenCV](https://github.com/opencv/opencv)<br>
 [OpenCV python tutorials](https://docs.opencv.org/3.1.0/d6/d00/tutorial_py_root.html)<br>
@@ -21,7 +21,7 @@
 [Keras](https://github.com/keras-team/keras)<br>
 [Keras中文文档](https://keras.io/zh/) 
 
-可用模型：
+可选用模型：
 ------
 可以尝试以下的模型，后面的数字代表年份和月份：
 
